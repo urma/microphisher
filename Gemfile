@@ -20,7 +20,7 @@ gem 'kaminari', '>= 0.14.1'
 
 # Enforce rubyzip version to guarantee
 # compatibility with treat
-gem 'rubyzip', '~> 0.9.9'
+gem 'rubyzip', '~> 1.2.2'
 
 # Use treat for NLP
 gem 'engtagger'
