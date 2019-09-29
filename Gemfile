@@ -20,13 +20,13 @@ gem 'kaminari', '>= 0.14.1'
 
 # Enforce rubyzip version to guarantee
 # compatibility with treat
-gem 'rubyzip', '~> 1.2.2'
+gem 'rubyzip', '~> 1.3.0'
 
 # Use treat for NLP
 gem 'engtagger'
 gem 'scalpel'
 gem 'stanford-core-nlp'
-gem 'treat'
+gem 'treat', '>= 2.0.7'
 gem 'nokogiri'
 
 # Gems used only for assets and not required
