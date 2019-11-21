@@ -27,7 +27,7 @@ gem 'engtagger'
 gem 'scalpel'
 gem 'stanford-core-nlp'
 gem 'treat'
-gem 'nokogiri'
+gem 'nokogiri', '>= 1.10.5'
 
 # Gems used only for assets and not required
 # in production environments by default.
