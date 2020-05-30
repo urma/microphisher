@@ -16,7 +16,7 @@ gem 'daemons'
 gem 'delayed_job_mongoid', '>= 2.0.0'
 
 # Use Kaminari for pagination
-gem 'kaminari', '>= 0.14.1'
+gem 'kaminari', '>= 1.2.1'
 
 # Enforce rubyzip version to guarantee
 # compatibility with treat
