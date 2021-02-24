@@ -9,7 +9,7 @@ gem 'rails', '6.0.3.5'
 gem 'mongoid', '~> 3.0.23'
 
 # Use OAuth
-gem 'oauth'
+gem 'oauth', '>= 0.5.5'
 
 # Use DelayedJob for background job scheduling
 gem 'daemons'

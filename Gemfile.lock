@@ -80,7 +80,7 @@ GEM
     multi_json (1.13.1)
     nokogiri (1.6.0)
       mini_portile (~> 0.5.0)
-    oauth (0.4.7)
+    oauth (0.5.5)
     origin (1.1.0)
     polyglot (0.3.5)
     progressbar (0.20.0)
@@ -162,8 +162,8 @@ DEPENDENCIES
   kaminari (>= 0.14.1)
   mongoid (~> 3.0.23)
   nokogiri
-  oauth
-  rails (= 3.2.17)
+  oauth (>= 0.5.5)
+  rails (= 3.2.22)
   rubyzip (~> 1.2.2)
   sass-rails (~> 3.2.6)
   scalpel
